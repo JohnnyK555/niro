@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Dark architectural background for high contrast across all tab themes -->
+  <rect width="100" height="100" rx="20" fill="#1C1B1A"/>
+  
+  <!-- Outer subtle frame border -->
+  <rect x="10" y="10" width="80" height="80" rx="12" stroke="#D8D2C4" stroke-width="2" stroke-opacity="0.3"/>
+
+  <!-- Stem for N & R (Left vertical pillar) -->
+  <path d="M26 26V74" stroke="#FAF9F6" stroke-width="7" stroke-linecap="square"/>
+
+  <!-- N Diagonal stroke -->
+  <path d="M26 26L52 74" stroke="#FAF9F6" stroke-width="6" stroke-linecap="square"/>
+
+  <!-- Right Pillar for N / Stem for R -->
+  <path d="M52 26V74" stroke="#FAF9F6" stroke-width="7" stroke-linecap="square"/>
+
+  <!-- R Upper Loop extending from center pillar -->
+  <path d="M52 26H68C74.6274 26 80 31.3726 80 38C80 44.6274 74.6274 50 68 50H52" stroke="#FAF9F6" stroke-width="6" stroke-linecap="square"/>
+
+  <!-- R Diagonal Leg -->
+  <path d="M60 50L78 74" stroke="#FAF9F6" stroke-width="6" stroke-linecap="square"/>
+
+  <!-- Subtle Gold Accent Dot -->
+  <circle cx="26" cy="26" r="3.5" fill="#C5A059"/>
+  <circle cx="78" cy="74" r="3.5" fill="#C5A059"/>
+</svg>

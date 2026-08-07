@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 120" width="100%" height="100%">
+  <!-- Top BOMA Text -->
+  <text x="0" y="52" font-family="'Arial', 'Helvetica', 'Inter', sans-serif" font-weight="900" font-size="62" letter-spacing="1.5" fill="#1B3A6B">BOMA</text>
+  
+  <!-- Yellow Separator Line -->
+  <rect x="0" y="66" width="236" height="5" fill="#F4C21B" rx="1"/>
+  
+  <!-- Bottom Parket Text (Title Case) -->
+  <text x="2" y="108" font-family="'Arial', 'Helvetica', 'Inter', sans-serif" font-weight="400" font-size="36" letter-spacing="14.5" fill="#7D838B">Parket</text>
+</svg>
